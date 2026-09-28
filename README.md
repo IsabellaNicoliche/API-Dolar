@@ -1,5 +1,7 @@
 # 💵 Cotação do Dólar - JavaScript
-Link: 
+Link: https://isabellanicoliche.github.io/API-Dolar/
+
+
 Atividade desenvolvida para a disciplina de **Programação para Internet**.
 
 A aplicação consome a API pública da **AwesomeAPI** para consultar a cotação do dólar (USD/BRL) e exibir as informações na página.
